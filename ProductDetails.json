@@ -1,7 +1,7 @@
 {
   "Products": [
   {
-    "sku": "1001",
+    "sku": "0",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
@@ -13,7 +13,7 @@
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"
   },
     {
-    "sku": "1002",
+    "sku": "1",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
@@ -25,7 +25,7 @@
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"
   },
      {
-    "sku": "1003",
+    "sku": "2",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
@@ -37,7 +37,7 @@
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"    
   },
      {
-    "sku": "1004",
+    "sku": "3",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
