@@ -5,28 +5,48 @@
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."    
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"
   },
     {
     "sku": "002",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."    
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"
   },
      {
     "sku": "003",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."    
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"    
   },
      {
     "sku": "004",
     "product_title": "Cool Blue Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."    
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"    
   }  
   ]
 }
