@@ -1,5 +1,5 @@
 {
-  "Products": [
+  "Products":[
   {
     "sku": "0",
     "product_title": "Women Crop T-Shirt",
@@ -9,7 +9,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/4.png"
   },
     {
     "sku": "1",
@@ -20,7 +20,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/4.png"
   },
      {
     "sku": "2",
@@ -31,7 +31,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/4.png"
   },
      {
     "sku": "3",
@@ -42,7 +42,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/4.png"
   },
      {
     "sku": "4",
@@ -53,7 +53,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/4.png"
   },
     {
     "sku": "5",
@@ -64,7 +64,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/4.png"
   }, 
      {
     "sku": "6",
@@ -75,7 +75,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/4.png"
   }, 
     {
     "sku": "7",
@@ -86,7 +86,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/4.png"
   }, 
     {
     "sku": "8",
@@ -97,7 +97,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/4.png"
   }, 
     {
     "sku": "9",
@@ -108,7 +108,7 @@
     "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/1.png",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/2.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/4.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/4.png"
   }
   ]
 }
