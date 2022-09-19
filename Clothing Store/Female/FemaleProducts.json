@@ -6,11 +6,10 @@
     "price_USD": "$ 8.83",
     "price_MTML": "MTML 150",
     "description": "Cropped T-shirt in soft cotton jersey. Relaxed fit with a round, rib-trimmed neckline, low dropped shoulders and short sleeves that finish just above the elbows.",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top1/4.png",
   },
     {
     "sku": "1",
@@ -18,11 +17,10 @@
     "price_USD": "$ 32.70",
     "price_MTML": "MTML 650",
     "description": "Open blazer with a lapel collar and turn-up sleeves falling below the elbow with sleeve tabs",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top2/4.png",
   },
      {
     "sku": "2",
@@ -30,11 +28,10 @@
     "price_USD": "$ 16.40",
     "price_MTML": "MTML 320",
     "description": "Sweater vest in a soft rib knit containing some wool. with a turtle neck",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png"    
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top3/4.png",
   },
      {
     "sku": "3",
@@ -42,11 +39,10 @@
     "price_USD": "$ 37.76",
     "price_MTML": "MTML 720",
     "description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Rounded hem that is longer at the back. Regular Fit – a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette.",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"    
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top4/4.png",
   },
      {
     "sku": "4",
@@ -54,11 +50,10 @@
     "price_USD": "$ 54.99",
     "price_MTML": "MTML 970",
     "description": "65% Polyester, 35% Cotton,Eye-catching desgins-- a hybrid of a blouse and sweater for a chic 2-in-1 look, give you a fresh styling",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top5/4.png",
   },
     {
     "sku": "5",
@@ -66,11 +61,10 @@
     "price_USD": "$ 7.95",
     "price_MTML": "MTML 100",
     "description": "Regular-fit T-shirt in soft cotton jersey with a round, rib-trimmed neckline and a straight hem",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Top/Top6/4.png",
   }, 
      {
     "sku": "6",
@@ -78,11 +72,10 @@
     "price_USD": "$ 49.95",
     "price_MTML": "MTML 860",
     "description": "5-pocket shorts in stretch cotton denim with a wide jersey panel at the waist for best fit over the tummy, a fake fly and raw-edge hems",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom1/4.png",
   }, 
     {
     "sku": "7",
@@ -90,11 +83,10 @@
     "price_USD": "$ 59.95",
     "price_MTML": "MTML 1050",
     "description": "100% Cotton, Stretch in some styles, Extra deep pockets",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom2/4.png",
   }, 
     {
     "sku": "8",
@@ -102,11 +94,10 @@
     "price_USD": "$ 30.92",
     "price_MTML": "MTML 620",
     "description": "97% Cotton, 3% Elastane, Zipper closure, Fitted through hip and thigh, with tapered leg, Sits below the waist Soft, breathable cotton twill with the gentle stretch",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom3/4.png",
   }, 
     {
     "sku": "9",
@@ -114,11 +105,10 @@
     "price_USD": "$ 29.95",
     "price_MTML": "MTML 602",
     "description": "5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button, and slim legs.",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Clothing%20Store/Female/Bottom/Bottom4/4.png",
   }
   ]
 }
