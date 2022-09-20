@@ -1,16 +1,15 @@
 {
-  "Products": [
+  "Products":[
   {
     "sku": "0",
     "product_title": "Samsung 28 litres Convection Microwave Oven with Slimfry feature and Ceramic Enamel Cavity , MC28H5033CK/TL",
     "price_USD": "$ 159.02",
     "price_MTML": "MTML 1074",
     "description": "Convection:- Can be used for baking along with grilling, reheating, defrosting and cooking, Capacity-28L : Perfect Capacity for INDIAN Family, Warranty: 1 Year complete , Magnetron = 1+4 Year , Ceramic Enamel Cavity - 10 Year, Features: Power Defrost , Preheat, Eco Mode, Auto Programs, SLIM FRY, Roti/Naan , Curd Making, Child Safety Lock, Sound On/Off, Accessories: - Quick Guide Label, Wire Rack, Crusty Plate",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/1/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/1/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/1/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/1/4.png"
   },
     {
     "sku": "1",
@@ -18,11 +17,10 @@
     "price_USD": "$ 306.89",
     "price_MTML": "MTML 1569",
     "description": "Diamond Drum, Chemical-Free Drum Sanitization, Ceramic Heater, Smart Check With Smartphone App",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/2.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/2/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/2/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/2/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/2/4.png"
   },
      {
     "sku": "2",
@@ -30,11 +28,10 @@
     "price_USD": "$ 1002.49",
     "price_MTML": "MTML 2590",
     "description": "Convertible Freezer, Twin Cooling Plus, Flat Door Design, Digital Inverter Compressor, Power Cool and Power Freeze, Large Door Bin and Crispers",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png"    
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/3/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/3/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/3/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/3/4.png"
   },
     {
     "sku": "3",
@@ -42,11 +39,10 @@
     "price_USD": "$ 2414.20",
     "price_MTML": "MTML 8076",
     "description": "Capacity: 657 Litres, R600a Refrigerant, Seamless Music Experience With 25W High Quality Speaker, SpaceMax Technology",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/3.png"    
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/4/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/4/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/4/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/4/4.png" 
   },
      {
     "sku": "4",
@@ -54,11 +50,10 @@
     "price_USD": "$ 589.32",
     "price_MTML": "MTML 2149",
     "description": "Android TV Operating System, Dolby Atmos, Dolby Audio Surround Sound Technology, Integrated Box Speaker, HDMI, Wi-Fi Supported, Bezel-Less Slim Design",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/4.png"    
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/5/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/5/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/5/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/5/4.png" 
   },
      {
     "sku": "5",
@@ -66,11 +61,10 @@
     "price_USD": "$ 500.40",
     "price_MTML": "MTML 2030",
     "description": "Immersive Sound Experience, Works With Bose Smart Speakers, Voice 4Video Technology, Alexa and Google Assistant",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/6/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/6/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/6/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/6/4.png"
   },
     {
     "sku": "6",
@@ -78,11 +72,10 @@
     "price_USD": "$ 1254.01",
     "price_MTML": "MTML 6916",
     "description": "Operating System: Android TV, Resolution: 3840 x 2160 - Ultra HD, Connectivity: 4 HDMI ports, 2 USB ports",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
-    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/7/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/7/2.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/7/3.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Appliance%20Store/Home%20Appliances/7/4.png"
   }
   ]
 }
